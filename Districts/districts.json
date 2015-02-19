@@ -1,0 +1,154 @@
+{
+    "distric": {
+        "Ampara": {
+            "province": "Eastern",
+            "population": {
+                "2012": 648057
+            }    
+        },
+        "Anuradhapura": {
+            "province": "North Central",
+            "population": {
+                "2012":856232
+            }
+        },
+        "Badulla": {
+            "province": "Uva",
+            "population": {
+                "2012":811758
+            }
+        },
+        "Batticaloa": {
+            "province": "Eastern",
+            "population": {
+                "2012":525142
+            }
+        },
+        "Colombo": {
+            "province": "Western",
+            "population": {
+                "2012":2309809
+            }
+        },
+        "Galle": {
+            "province": "Southern",
+            "population": {
+                "2012": 1058771
+            }
+        },
+        "Gampaha": {
+            "province": "Western",
+            "population": {
+                "2012": 2294641
+            }
+        },
+        "Hambantota": {
+            "province": "Southern",
+            "population": {
+                "2012": 596617
+            }
+        },
+        "Jaffna": {
+            "province": "Northern",
+            "population": {
+                "2012": 583378
+            }
+        },
+        "Kalutara": {
+            "province": "Western",
+            "population": {
+                "2012": 1217260
+            }
+        },
+        "Kandy": {
+            "province": "Central",
+            "population": {
+                "2012": 1369899
+            }
+        },
+        "Kegalle": {
+            "province": "Sabaragamuwa",
+            "population": {
+                "2012":836603
+            }
+        },
+        "Kilinochchi": {
+            "province": "Northern",
+            "population": {
+                "2012": 112875
+            }
+        },
+        "Kurunegala": {
+            "province": "North Western",
+            "population": {
+                "2012":1610299
+            }
+        },
+        "Mannar": {
+            "province": "Northern",
+            "population": {
+                "2012":99051
+            }
+        },
+        "Matale": {
+            "province": "Central",
+            "population": {
+                "2012":482229
+            }
+        },
+        "Matara": {
+            "province": "Southern",
+            "population": {
+                "2012": 809344
+            }
+        },
+        "Moneragala": {
+            "province": "Uva",
+            "population": {
+                "2012": 448142
+            }
+        },
+        "Mullaitivu": {
+            "province": "Northern",
+            "population": {
+                "2012": 91947
+            }
+        },
+        "Nuwara Eliya": {
+            "province": "Central",
+            "population": {
+                "2012": 403335
+            }
+        },
+        "Polonnaruwa": {
+            "province": "North Central",
+            "population": {
+                "2012": 759776
+            }
+        },
+        "Puttalam": {
+            "province": "North Western",
+            "population": {
+                "2012": 1082277
+            }
+        },
+        "Ratnapura": {
+            "province": "Sabaragamuwa",
+            "population": {
+                "2012":1082277
+            }
+        },
+        "Trincomalee": {
+            "province": "Eastern",
+            "population": {
+                "2012":378182
+            }
+        },
+        "Vavuniya": {
+            "province": "Northern",
+            "population": {
+                "2012":171511
+            }
+        }
+    }
+}
