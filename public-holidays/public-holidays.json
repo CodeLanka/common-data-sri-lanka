@@ -1,0 +1,79 @@
+[
+    /* January */
+    {
+         "title"  : "Duruthu Full Moon Poya Day",
+         "description" : "Marks the Gautama Buddha’s first visit to Sri Lanka. ",
+         "start-date" : "2015-01-04",
+         "end-date" : "2015-01-04",
+         "type" : [
+			"Public",
+            "Mercantile",
+            "Bank"
+          ]
+    }
+	    {
+         "title"  : "Milad un Nabi (Holy Prophet's Birthday)",
+         "description" : "The birthday of the Holy Prophet Muhammad (s.a.l).",
+         "start-date" : "2015-01-04",
+         "end-date" : "2015-01-04",
+         "type" : [
+			"Public",
+            "Mercantile",
+            "Bank"
+          ]
+    }
+	
+	{
+         "title"  : "Tamil Thai Pongal Day",
+         "description" : "The four-day Tamil festival of thanksgiving to nature.",
+         "start-date" : "2015-01-15",
+         "end-date" : "2015-01-15",
+         "type" : [
+			"Public",
+            "Mercantile",
+            "Bank"
+          ]
+    }
+	
+	/* February */
+	
+	{
+         "title"  : "Navam Full Moon Poya Day",
+         "description" : "The first ever Buddhist congregation was held.",
+         "start-date" : "2015-02-03",
+         "end-date" : "2015-02-03",
+         "type" : [
+			"Public",
+            "Mercantile",
+            "Bank"
+          ]
+    }
+	
+	{
+         "title"  : "Independence Day of Sri Lanka",
+         "description" : "Marks the independence of Sri Lanka from the British",
+         "start-date" : "2015-02-04",
+         "end-date" : "2015-02-04",
+         "type" : [
+			"Public",
+            "Mercantile",
+            "Bank"
+          ]
+    }
+	
+	{
+         "title"  : "Mahashivarathri",
+         "description" : "The Great Night of Shiva",
+         "start-date" : "2015-02-17",
+         "end-date" : "2015-02-17",
+         "type" : [
+			"Public",
+            "Bank"
+          ]
+    }
+	
+	/* March */
+	
+	
+	
+] 
