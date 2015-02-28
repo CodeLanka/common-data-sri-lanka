@@ -1,7 +1,7 @@
 [
     {
         "title": "Duruthu Full Moon Poya Day",
-        "description": "Marks the Gautama Buddha’s first visit to Sri Lanka. ",
+        "description": "Marks the Lord Buddha’s first visit to Sri Lanka. ",
         "start-date": "2015-01-04",
         "end-date": "2015-01-04",
         "type": [
@@ -34,7 +34,7 @@
     },
     {
         "title": "Navam Full Moon Poya Day",
-        "description": "The first ever Buddhist congregation was held.",
+        "description": "Celebrates the following events in Buddhist history: Entrance into the order of two leading disciples of The Buddha (Sariputta and Maha Moggalana), The Buddha proclaims for the first time a code of fundamental ethical precepts for the monks. The Buddha announces that within three months His Parinibbana (death) will take place.",
         "start-date": "2015-02-03",
         "end-date": "2015-02-03",
         "type": [
@@ -63,5 +63,117 @@
             "Public",
             "Bank"
         ]
-    }
+    },
+	{
+        "title": "Medin Full Moon Poya Day",
+        "description": "Commemorates the visit of The Buddha to his home to preach to his father King Suddhodana and other relatives and show them the path to enlightenment and final deliverance.",
+        "start-date": "2015-03-05",
+        "end-date": "2015-03-05",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+	{
+        "title": "Bak Full Moon Poya Day",
+        "description": "Commemorates the second visit of The Buddha to Sri Lanka.",
+        "start-date": "2015-04-03",
+        "end-date": "2015-04-03",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+	{
+        "title": "Good Friday",
+        "description": "Commemorates the crucifixion of Jesus Christ and his death at Calvary.",
+        "start-date": "2015-04-03",
+        "end-date": "2015-04-03",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+	{
+        "title": "Day Prior to Sinhala and Tamil New Year",
+        "description": "Marks the day prior to the end of the harvest season.",
+        "start-date": "2015-04-13",
+        "end-date": "2015-04-13",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+	{
+        "title": "Sinhala and Tamil New Year",
+        "description": "Marks the end of the harvest season.",
+        "start-date": "2015-04-14",
+        "end-date": "2015-04-14",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+	{
+        "title": "Labour Day",
+        "description": "Annual holiday to celebrate the achievements of workers.",
+        "start-date": "2015-05-01",
+        "end-date": "2015-05-01",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+	{
+	    "title": "Vesak Full Moon Poya Day",
+        "description": "Commemorates the day the Buddha was born, attained Supreme Enlightenment, attained Parinirvana and passed away. It is also the Buddha made his third and final visit to Sri Lanka.",
+        "start-date": "2015-05-03",
+        "end-date": "2015-05-03",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+	{
+	    "title": "Day following Vesak Full Moon Poya Day",
+        "description": "The day after the day the Buddha was born, attained Supreme Enlightenment, attained Parinirvana and passed away. It is also the Buddha made his third and final visit to Sri Lanka.",
+        "start-date": "2015-05-03",
+        "end-date": "2015-05-03",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+	{
+	    "title": "Day following Vesak Full Moon Poya Day",
+        "description": "Commemorates the introduction of Buddhism to Sri Lanka.",
+        "start-date": "2015-06-02",
+        "end-date": "2015-06-02",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+	{
+	    "title": "Esala Full Moon Poya Day",
+        "description": "Commemorates the deliverance of the first sermon to the five ascetics and setting in motion the Wheel of the Dhamma.",
+        "start-date": "2015-07-31",
+        "end-date": "2015-07-31",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+	
+	
 ]
