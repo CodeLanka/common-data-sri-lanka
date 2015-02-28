@@ -1,0 +1,295 @@
+[
+    {
+        "title": "Duruthu Full Moon Poya Day",
+        "description": "Marks the Lord Buddha’s first visit to Sri Lanka. ",
+        "start-date": "2015-01-04",
+        "end-date": "2015-01-04",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+    {
+        "title": "Milad un Nabi (Holy Prophet's Birthday)",
+        "description": "Birthday of the Prophet Muhammad (s.a.l) .",
+        "start-date": "2015-01-04",
+        "end-date": "2015-01-04",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+    {
+        "title": "Tamil Thai Pongal Day",
+        "description": "The four-day Tamil festival of thanksgiving to nature.",
+        "start-date": "2015-01-15",
+        "end-date": "2015-01-15",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+    {
+        "title": "Navam Full Moon Poya Day",
+        "description": "Celebrates the following events in Buddhist history: Entrance into the order of two leading disciples of The Buddha (Sariputta and Maha Moggalana), The Buddha proclaims for the first time a code of fundamental ethical precepts for the monks. The Buddha announces that within three months His Parinibbana (death) will take place.",
+        "start-date": "2015-02-03",
+        "end-date": "2015-02-03",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+    {
+        "title": "Independence Day of Sri Lanka",
+        "description": "Marks the independence of Sri Lanka from the British",
+        "start-date": "2015-02-04",
+        "end-date": "2015-02-04",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+    {
+        "title": "Mahashivarathri",
+        "description": "The Great Night of Shiva",
+        "start-date": "2015-02-17",
+        "end-date": "2015-02-17",
+        "type": [
+            "Public",
+            "Bank"
+        ]
+    },
+    {
+        "title": "Medin Full Moon Poya Day",
+        "description": "Commemorates the visit of The Buddha to his home to preach to his father King Suddhodana and other relatives and show them the path to enlightenment and final deliverance.",
+        "start-date": "2015-03-05",
+        "end-date": "2015-03-05",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+    {
+        "title": "Bak Full Moon Poya Day",
+        "description": "Commemorates the second visit of The Buddha to Sri Lanka.",
+        "start-date": "2015-04-03",
+        "end-date": "2015-04-03",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+    {
+        "title": "Good Friday",
+        "description": "Commemorates the crucifixion of Jesus Christ and his death at Calvary.",
+        "start-date": "2015-04-03",
+        "end-date": "2015-04-03",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+    {
+        "title": "Day Prior to Sinhala and Tamil New Year",
+        "description": "Marks the day prior to the end of the harvest season.",
+        "start-date": "2015-04-13",
+        "end-date": "2015-04-13",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+    {
+        "title": "Sinhala and Tamil New Year",
+        "description": "Marks the end of the harvest season.",
+        "start-date": "2015-04-14",
+        "end-date": "2015-04-14",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+    {
+        "title": "Labour Day",
+        "description": "Annual holiday to celebrate the achievements of workers.",
+        "start-date": "2015-05-01",
+        "end-date": "2015-05-01",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+    {
+        "title": "Vesak Full Moon Poya Day",
+        "description": "Commemorates the day the Buddha was born, attained Supreme Enlightenment, attained Parinirvana and passed away. It is also the Buddha made his third and final visit to Sri Lanka.",
+        "start-date": "2015-05-03",
+        "end-date": "2015-05-03",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+    {
+        "title": "Day following Vesak Full Moon Poya Day",
+        "description": "The day after the day the Buddha was born, attained Supreme Enlightenment, attained Parinirvana and passed away. It is also the Buddha made his third and final visit to Sri Lanka.",
+        "start-date": "2015-05-03",
+        "end-date": "2015-05-03",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+    {
+        "title": "Poson Full Moon Poya Day",
+        "description": "Commemorates the introduction of Buddhism to Sri Lanka.",
+        "start-date": "2015-06-02",
+        "end-date": "2015-06-02",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+    {
+        "title": "Adhi-Esala Full Moon Poya Day",
+        "description": "If a month has two Poya days, the name of the second one will be preceded by Adhi.",
+        "start-date": "2015-07-1",
+        "end-date": "2015-07-1",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+    {
+        "title": "Id-Ul Fitr (Ramazan Festival Day)",
+        "description": "Commemorates the end of the fasting/Ramazan.",
+        "start-date": "2015-07-18",
+        "end-date": "2015-07-18",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+    {
+        "title": "Esala Full Moon Poya Day",
+        "description": "Commemorates the deliverance of the first sermon to the five ascetics and setting in motion the Wheel of the Dhamma.",
+        "start-date": "2015-07-31",
+        "end-date": "2015-07-31",
+        "type": [
+            "Public",
+            "Bank"
+        ]
+    },
+    {
+        "title": "Nikini Full Moon Poya Day",
+        "description": "Commemorates the conducting of the first Dhamma Sanghayana.",
+        "start-date": "2015-08-29",
+        "end-date": "2015-08-29",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+    {
+        "title": "Id-Ul-Allha (Hadji Festival Day)",
+        "description": "Commemorates the willingness of Ibrahim to follow Allah's (God's) command to sacrifice his son Ishmael.",
+        "start-date": "2015-09-24",
+        "end-date": "2015-09-24",
+        "type": [
+            "Public",
+            "Bank"
+        ]
+    },
+    {
+        "title": "Binara Full Moon Poya Day",
+        "description": "Commemorates the Buddha's visit to heaven to preach to his mother and commencing of the Bhikkhuni (nun's) Order.",
+        "start-date": "2015-09-27",
+        "end-date": "2015-09-27",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+    {
+        "title": "Vap Full Moon Poya Day",
+        "description": "Commemorates the conclusion of The Buddha's preaching of the Abhidhamma for three months to his mother in the Heavenly realm.",
+        "start-date": "2015-10-27",
+        "end-date": "2015-10-27",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+    {
+        "title": "Deepavali Festival Day",
+        "description": "Commemorates Lord Rama and his wife, Sita's return to Ayodhya after his 14-year exile. ",
+        "start-date": "2015-11-10",
+        "end-date": "2015-11-10",
+        "type": [
+            "Public",
+            "Bank"
+        ]
+    },
+    {
+        "title": "Ill Full Moon Poya Day",
+        "description": "Celebrates the obtaining of Vivarana.",
+        "start-date": "2015-11-25",
+        "end-date": "2015-11-25",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+    {
+        "title": "Unduvap Full Moon Poya Day",
+        "description": "Commemorates the arrival of the Bo-tree sapling; this was brought to Sri Lanka from India by Buddhist Therini Sanghamitta. It is also the oldest documented tree in the world. ",
+        "start-date": "2015-12-24",
+        "end-date": "2015-12-24",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+    {
+        "title": "Milad un Nabi (Holy Prophet's Birthday)",
+        "description": "Birthday of the Prophet Muhammad (s.a.l) .",
+        "start-date": "2015-12-24",
+        "end-date": "2015-12-24",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+    {
+        "title": "Christmas Day",
+        "description": "Birthday of Jesus Christ.",
+        "start-date": "2015-12-25",
+        "end-date": "2015-12-25",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    }
+]
