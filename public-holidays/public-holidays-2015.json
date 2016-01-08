@@ -1,5 +1,16 @@
 [
     {
+        "title": "New Year's Day",
+        "description": "the first day of the year on the modern Gregorian calendar as well as the Julian calendar",
+        "start-date": "2015-01-01",
+        "end-date": "2015-01-01",
+        "type": [
+            "Public",
+            "Mercantile",
+            "Bank"
+        ]
+    },
+    {
         "title": "Duruthu Full Moon Poya Day",
         "description": "Marks the Lord Buddha’s first visit to Sri Lanka. ",
         "start-date": "2015-01-04",
